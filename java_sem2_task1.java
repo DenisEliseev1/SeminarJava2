@@ -1,5 +1,3 @@
-import java.io.PrintStream;
-
 /**
  * Дана строка sql-запроса "select * from students where ". Сформируйте часть WHERE этого запроса, 
  * используя StringBuilder. Данные для фильтрации приведены ниже в виде json строки.
