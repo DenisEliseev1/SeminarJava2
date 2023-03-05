@@ -13,7 +13,7 @@ public class java_sem2_task2 {
     public static void main(String[] args) throws IOException {
         
         int [] array = new int[] {5, 4, 3, 2, 0, 3, 56, 8};
-        //System.out.println(Arrays.toString(bubleSort(array)));
+        System.out.println(Arrays.toString(bubleSort(array)));
     }
 
     public static int[] bubleSort (int[] arr) throws IOException   {
